@@ -73,7 +73,7 @@
 |             Project             |           Period            |                                Repository                                |                               1단계 PR                                |                               2단계 PR                                |                                3단계 PR                                |
 | :-----------------------------: | :-------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |  :-------------------------------------------------------------------: |
 | Tomcat 구현하기 <br> | `2023-09-03` ~ `2023-09-13` |         [Repository](https://github.com/tkdgur0906/java-http)         |   [1단계 PR](https://github.com/woowacourse/java-http/pull/536)    |     [2단계 PR](https://github.com/woowacourse/java-http/pull/610)      | [3단계 PR](https://github.com/woowacourse/java-http/pull/723)      |
-|     @MVC 구현하기<br>      | `2023-09-16` ~ `2023-10-02` |       [Repository](https://github.com/tkdgur0906/java-mvc)        |  [x]()  |  [x]()  |[x]() 
+|     @MVC 구현하기<br>      | `2023-09-16` ~ `2023-10-02` |       [Repository](https://github.com/tkdgur0906/java-mvc)        |  [1단계 PR](https://github.com/woowacourse/java-mvc/pull/678)  |  [2단계 PR](https://github.com/woowacourse/java-mvc/pull/750)  |[3단계 PR](https://github.com/woowacourse/java-mvc/pull/839) 
 |  JDBC 라이브러리 구현하기 <br>   | `2023-10-03` ~ `2023-10-23` | [x]() | [x]() | [x]() | [x]()
 
 <br>
